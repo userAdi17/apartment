@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3032fd96-fdb8-4101-af60-24ca386f9fbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lpUhOQcbcUv2QXyVmgYSRePETj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../uber/sass/media.sass" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3032fd96-fdb8-4101-af60-24ca386f9fbc" name="Default Changelist" comment="" />
+      <created>1608293644730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608293644730</updated>
+      <workItem from="1608293647133" duration="14770000" />
+      <workItem from="1608352169192" duration="9102000" />
+      <workItem from="1608366837956" duration="6801000" />
+      <workItem from="1608378995241" duration="1873000" />
+      <workItem from="1608391743804" duration="8520000" />
+      <workItem from="1608435173634" duration="15361000" />
+      <workItem from="1608531761238" duration="8172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608299107086">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="277" y="0" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.720@0.0.1366.720" timestamp="1608299107086" />
+    <state x="186" y="37" key="EditFileWatcherDialog" timestamp="1608533662323">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="186" y="37" key="EditFileWatcherDialog/0.0.1366.720@0.0.1366.720" timestamp="1608533662323" />
+    <state x="359" y="0" key="FileChooserDialogImpl" timestamp="1608532054565">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="359" y="0" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1608532054565" />
+    <state x="359" y="48" key="FileChooserDialogImpl/0.48.1366.720@0.48.1366.720" timestamp="1608473633191" />
+  </component>
+</project>
